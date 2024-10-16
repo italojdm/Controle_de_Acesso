@@ -1,4 +1,4 @@
-# Sistema de controle de acesso - entrada e saída de visitantes e veículos
+# Sistema de controle de acesso
 
 ## Detalhes técnicos:
 <em>Sistema sendo desenvolvido em PHP 7.4+, usando a arquitetura MVC (POO), CoffeeCode DataLayer como ORM, banco de dados MySQL</em>
