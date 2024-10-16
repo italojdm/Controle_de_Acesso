@@ -22,3 +22,4 @@ Necessário para o funcionamento do sistema: PHP 7.4+, MySQL, Composer, GIT (par
   - <code>$email_servidor = 'smtp.servidor.com';</code> <i> Host, endereço do servidor de disparo de e-mails (SMTP) </i>
   - <code>$email_usuario = 'login@email.com';</code> <i> Login da conta de e-mail </i>
   - <code>$email_senha = '123456';</code> <i> Senha da conta de e-mail </i>
+  
