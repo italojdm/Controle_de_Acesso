@@ -161,3 +161,5 @@ INSERT INTO `portaria_db`.`usuarios`
 (`nome`, `login`, `senha`, `nivel`, `status`)
 VALUES
 ('Administrador', 'admin', '40bd001563085fc35165329ea1ff5c5ecbdbbeef', 1, 0);
+
+SET GLOBAL sql_mode = 'ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION';
